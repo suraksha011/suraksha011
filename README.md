@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently a senior year Student studying Computer Science.<br>👯 I’m looking to explore the world of open-source development. <br>🤝 I’m keen about numbers and its affects on industry both in both financial and technical aspects.<br>🌱 I’m currently learning about the future techs.<br>💬 Ask me about anything if it is about numbers.<br>⚡ Fun fact - I am not a calculator.
+🔭 I’m currently a senior year Student studying Computer Science.<br>👯 I’m looking to explore the world of open-source development. <br>🤝 I’m keen about numbers and its affects on industry both in both financial and technical aspects.<br>🌱 I’m currently learning about the future techs.<br>.
 
 
 ## 🌐 Socials:
